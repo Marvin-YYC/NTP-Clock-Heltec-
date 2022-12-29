@@ -1,4 +1,4 @@
-//Thanks HeikkiHietala/ESP32-OLED-NTP-clock for original code.  
+//Thanks to HeikkiHietala/ESP32-OLED-NTP-clock for original code.  
 //Included Canadian NTP pool. PSRAM Disabled
 //Connected to NTP via wifi and shows date, day of week, and time (12hr) along with MAC address. Time zone info, UTC offset, AM/PM
 //During log on it shows ssid and IP address. Hours + Minutes larger (24pt) Seconds smaller (10pt)font.
